@@ -1,0 +1,53 @@
+		
+1	Ally Financial Inc.	ALLY
+2	Associated Banc-Corp	ASB
+3	Axos Financial, Inc.	AX
+4	Banc of California, Inc.	BANC
+5	BancorpSouth Bank	BXS
+6	Bank of America Corporation	BAC
+7	Bank of Hawaii Corporation	BOH
+8	Bank Of New York Mellon Corporation (The)	BK
+9	BankUnited, Inc.	BKU
+10	BB&T Corporation	BBT
+11	Berkshire Hills Bancorp, Inc.	BHLB
+12	Byline Bancorp, Inc.	BY
+13	Cadence Bancorporation	CADE
+14	Capital One Financial Corporation	COF
+15	CIT Group Inc (DEL)	CIT
+16	Citigroup Inc.	C
+17	Citizens Financial Group, Inc.	CFG
+18	Comerica Incorporated	CMA
+19	Community Bank System, Inc.	CBU
+20	CPB Inc.	CPF
+21	Cullen/Frost Bankers, Inc.	CFR
+22	Customers Bancorp, Inc	CUBI
+23	F.N.B. Corporation	FNB
+24	FB Financial Corporation	FBK
+25	FCB Financial Holdings, Inc.	FCB
+26	First Commonwealth Financial Corporation	FCF
+27	First Horizon National Corporation	FHN
+28	Flagstar Bancorp, Inc.	FBC
+29	Franklin Financial Network, Inc.	FSB
+30	Great Western Bancorp, Inc.	GWB
+31	Hilltop Holdings Inc.	HTH
+32	J P Morgan Chase & Co	JPM
+33	KeyCorp	KEY
+34	M&T Bank Corporation	MTB
+35	MFC Bancorp Ltd.	MFCB
+36	MidSouth Bancorp	MSL
+37	National Bank Holdings Corporation	NBHC
+38	New York Community Bancorp, Inc.	NYCB
+39	PNC Financial Services Group, Inc. (The)	PNC
+40	Prosperity Bancshares, Inc.	PB
+41	Provident Financial Services, Inc	PFS
+42	Regions Financial Corporation	RF
+43	State Street Corporation	STT
+44	Sterling Bancorp	STL
+45	SunTrust Banks, Inc.	STI
+46	Synovus Financial Corp.	SNV
+47	TCF Financial Corporation	TCF
+48	U.S. Bancorp	USB
+49	Webster Financial Corporation	WBS
+50	Wells Fargo & Company	WFC
+51	Western Alliance Bancorporation	WAL
+52	Zions Bancorporation N.A.	ZBK
