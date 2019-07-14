@@ -1,0 +1,36 @@
+https://financetrain.com/what-is-hypothesis-testing/
+
+Significance testing is widely and extensively conducted in finance research. It is an essential
+tool to establish statistical evidence of an association or relationship among the financial
+variables of interest.
+
+QUESTIONS:
+- does the mad money guy make predictions? Are his predictions based in any kind of science when he talks about stocks?
+Is the underlying mean return on this mutual fund different from the underlying mean return on its benchmark?
+Did the volatility of returns on this stock change after the stock was added to a stock market index?
+Are a security’s bid-ask spreads related to the number of dealers making a market in the security?
+Do data from a national bond market support a prediction of an economic theory about the term structure of interest rates (the relationship between yield and maturity)?
+
+
+A hypothesis is a statement about one or more populations.
+The steps in testing a hypothesis are as follows:
+1. Stating the hypotheses.
+2. Identifying the appropriate test statistic and its probability distribution.
+3. Specifying the significance level.
+4. Stating the decision rule.
+5. Collecting the data and calculating the test statistic.
+6. Making the statistical decision.
+7. Making the economic or investment decision.
+
+-------------------------------------------------------------------------------
+http://csinvesting.org/wp-content/uploads/2015/02/Significance-Testing-Issues-for-Empirical-Finance-5.pdf
+Finance Research
+
+level of significance, sample size, power of the test, and
+expected losses.
+
+- More
+specifically, Leamer (1978) suggests that the level of significance be adjusted as a decreasing
+function of sample size for sensible hypothesis testing. Klein and Brown (1984) make the
+same point in the context of model selection in the linear regression, with an observation that
+a smaller model is rejected too easily in large samples under a fixed level of significance.
