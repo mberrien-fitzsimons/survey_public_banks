@@ -5,11 +5,10 @@ tool to establish statistical evidence of an association or relationship among t
 variables of interest.
 
 QUESTIONS:
-- does the mad money guy make predictions? Are his predictions based in any kind of science when he talks about stocks?
-Is the underlying mean return on this mutual fund different from the underlying mean return on its benchmark?
-Did the volatility of returns on this stock change after the stock was added to a stock market index?
-Are a security’s bid-ask spreads related to the number of dealers making a market in the security?
-Do data from a national bond market support a prediction of an economic theory about the term structure of interest rates (the relationship between yield and maturity)?
+- Is the underlying mean return on this mutual fund different from the underlying mean return on its benchmark?
+- Did the volatility of returns on this stock change after the stock was added to a stock market index?
+- Are a security’s bid-ask spreads related to the number of dealers making a market in the security?
+- Do data from a national bond market support a prediction of an economic theory about the term structure of interest rates (the relationship between yield and maturity)?
 
 
 A hypothesis is a statement about one or more populations.
