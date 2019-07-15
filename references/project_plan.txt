@@ -1,16 +1,37 @@
-https://financetrain.com/what-is-hypothesis-testing/
+DELIVERABLES:
+- Jupyter Notebook containing any code you've written for this project.
+- "Executive Summary" PowerPoint Presentation that explains the hypothesis tests you ran, your findings, and their relevance to company stakeholders.
 
-Significance testing is widely and extensively conducted in finance research. It is an essential
-tool to establish statistical evidence of an association or relationship among the financial
-variables of interest.
+---------------------------------------------------------
 
-QUESTIONS:
+Statistical Analysis: List of Hypothesis Tests on Learn.co:
+1. T-Tests
+2. chi-squared test
+3. ANOVA
+4. re-sampling method
+
+---------------------------------------------------------
+
+POSSIBLE QUESTIONS:
+
+1. Intraday variance as difference between high and low (stock)
+2. Is there a bank out there whose daily volume is significantly different from everyone else (most popularly traded banks).
+- average 10 day volume/ marketcap. For this we could do a T test and ANOVA.
+3. 
+
+---------------------------------------------------------
+
+EXAMPLE QUESTIONS:
 - Is the underlying mean return on this mutual fund different from the underlying mean return on its benchmark?
 - Did the volatility of returns on this stock change after the stock was added to a stock market index?
 - Are a security’s bid-ask spreads related to the number of dealers making a market in the security?
 - Do data from a national bond market support a prediction of an economic theory about the term structure of interest rates (the relationship between yield and maturity)?
+- TTM:  Earnings per share should be approximately the same across banks (this is the hypothesis). We can do this by testing the different
+EPS against the mean value of the banks. (New column would need to be created "TTM Earnings")
 
+---------------------------------------------------------
 
+HYPOTHESIS TESTING STEPS:
 A hypothesis is a statement about one or more populations.
 The steps in testing a hypothesis are as follows:
 1. Stating the hypotheses.
@@ -21,15 +42,4 @@ The steps in testing a hypothesis are as follows:
 6. Making the statistical decision.
 7. Making the economic or investment decision.
 
--------------------------------------------------------------------------------
-http://csinvesting.org/wp-content/uploads/2015/02/Significance-Testing-Issues-for-Empirical-Finance-5.pdf
-Finance Research
-
-level of significance, sample size, power of the test, and
-expected losses.
-
-- More
-specifically, Leamer (1978) suggests that the level of significance be adjusted as a decreasing
-function of sample size for sensible hypothesis testing. Klein and Brown (1984) make the
-same point in the context of model selection in the linear regression, with an observation that
-a smaller model is rejected too easily in large samples under a fixed level of significance.
+Source: https://financetrain.com/what-is-hypothesis-testing/
