@@ -14,9 +14,10 @@ Statistical Analysis: List of Hypothesis Tests on Learn.co:
 
 POSSIBLE QUESTIONS:
 
-1. - Intraday variance as difference between high and low (stock)
+1. Intraday variance as difference between high and low (stock)
 2. Is there a bank out there whose daily volume is significantly different from everyone else (most popularly traded banks).
 - average 10 day volume/ marketcap. For this we could do a T test and ANOVA.
+3. 
 
 ---------------------------------------------------------
 
