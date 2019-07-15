@@ -1,13 +1,20 @@
-Source: https://financetrain.com/what-is-hypothesis-testing/
+Statistical Analysis: List of Hypothesis Tests on Learn.co: 
+1. T-Tests
+2. chi-squared test
+3. ANOVA
 
-POSSIBLE QUESTIONS: 
 
+POSSIBLE QUESTIONS:
+
+---------------------------------------------------------
 
 EXAMPLE QUESTIONS:
 - Is the underlying mean return on this mutual fund different from the underlying mean return on its benchmark?
 - Did the volatility of returns on this stock change after the stock was added to a stock market index?
 - Are a security’s bid-ask spreads related to the number of dealers making a market in the security?
 - Do data from a national bond market support a prediction of an economic theory about the term structure of interest rates (the relationship between yield and maturity)?
+
+---------------------------------------------------------
 
 HYPOTHESIS TESTING STEPS:
 A hypothesis is a statement about one or more populations.
@@ -19,3 +26,5 @@ The steps in testing a hypothesis are as follows:
 5. Collecting the data and calculating the test statistic.
 6. Making the statistical decision.
 7. Making the economic or investment decision.
+
+Source: https://financetrain.com/what-is-hypothesis-testing/
