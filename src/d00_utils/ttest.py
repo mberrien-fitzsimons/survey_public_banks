@@ -7,7 +7,8 @@ def singleVariance(sample):
     calculates the sample variance as given by the formula large s^{2} = \frac{\sum_{i=1}^{n}(x_{i} - \bar{x})^{2}}{n-1}
 
     Parameters:
-    sample (array, series): array or list of numbers. These numbers will be used to calculate the variance of the sample distribution.
+    sample (array, series): array or list of numbers. These numbers will be used to
+    calculate the variance of the sample distribution.
 
     Returns:
     int: sample distribution variance
