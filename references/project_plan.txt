@@ -1,5 +1,3 @@
-BEFORE
-
 
 PRESENTATION OVERVIEW:
 we obtained a dataset snapshot of latest available data of their key statistics (market information, ie, average volume,
@@ -54,19 +52,5 @@ market cap, earnings per share).we have another dataset that is a time series na
 lows. First experiment with snapshot data and first see if there are any stocks that had significantly different volume to
 market capitalization, or per ratio, or eps. To establish the fact that they are statistically different, we thought we could
 use sample mean t-test. If we find something different then we thought we are going to zoom into historical trade data for intraday.
-
-Can do both single bank against population mean.
----------------------------------------------------------
-
-HYPOTHESIS TESTING STEPS:
-A hypothesis is a statement about one or more populations.
-The steps in testing a hypothesis are as follows:
-1. Stating the hypotheses.
-2. Identifying the appropriate test statistic and its probability distribution.
-3. Specifying the significance level.
-4. Stating the decision rule.
-5. Collecting the data and calculating the test statistic.
-6. Making the statistical decision.
-7. Making the economic or investment decision.
 
 Source: https://financetrain.com/what-is-hypothesis-testing/

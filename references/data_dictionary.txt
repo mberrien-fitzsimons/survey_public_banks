@@ -1,0 +1,68 @@
+Table Name - all_stocks_stats
+Variables:
+
+1. avg10Volume - 10 Day Average Volume Meaning
+2. avg30Volume - 30 day average volume
+3. beta - measure of a stock's volatility in relation to the market.
+By definition, the market has a beta of 1.0, and individual stocks
+are ranked according to how much they deviate from the market
+
+4. companyName - Company Name
+5. day200MovingAvg - 200-day moving average is a popular technical indicator
+which investors use to analyze price trends. It is simply a security's average
+closing price over the last 200 days.
+
+6. day30ChangePercent - 30 day change percent
+7. day50MovingAvg 50-day moving average is a popular technical indicator
+which investors use to analyze price trends. It is simply a security's average
+closing price over the last 50 days.
+
+8. day5ChangePercent - 5 day change percent
+9. dividendYield - The dividend yield is the ratio of a company's annual
+dividend compared to its share price. Dividend Yield = (annual dividend/ share price)
+
+10. employees - number of employees
+11. exDividendDate - ex-dividend date describes a stock that is trading without
+the value of the next dividend payment. The ex-dividend date or "ex-date" is
+the day the stock starts trading without the value of its next dividend payment.
+A buyer who purchases a stock on or after its ex-dividend date is not entitled
+to the declared dividend – it is owned by whoever owned the stock the day before
+the ex-dividend date.
+
+12. float - The float is the number of shares actually available for trading
+13. marketcap - market capitalization—refers to the total value of all a
+company's shares of stock. It is calculated by multiplying the price of a
+stock by its total number of outstanding shares.
+
+14. maxChangePercent - Percentage change is a simple mathematical concept that
+represents the degree of change over time.
+
+15. month6ChangePercent - Percentage change is a simple mathematical concept that
+represents the degree of change over time.
+
+16. nextDividendDate - Next Dividend date
+17. nextEarningsDate - Next earnings date
+18. peRatio - price-earnings ratio, The price-to-earnings ratio (P/E ratio) is
+the ratio for valuing a company that measures its current share price relative
+to its per-share earnings. useful metric for evaluating the relative
+attractiveness of a company's stock price compared to the firm's current earnings
+
+19. sharesOutstanding - Shares outstanding refer to a company's stock currently
+held by all its shareholders
+
+20. ttmDividendRate - Trailing 12 month Dividend Rate. The dividend rate is the
+total expected dividend payments from an investment, fund or portfolio expressed
+on an annualized basis plus any additional non-recurring dividends that an
+investor may receive during that period.
+
+21. ttmEPS - Trailing 12 month Earnings per share. EPS is the portion of a
+company's profit that is allocated to each outstanding share of its common stock.
+
+22. week52change - 52 week price range
+23. week52high - 52 week price high
+24. week52low - 52 week price low
+25. year1ChangePercent
+26. year2ChangePercent
+27. year5ChangePercent
+28. ytdChangePercent - year to date change percent. A year-to-date figure (YTD)
+details the total percentage change from January 1 until a date later in the year. 
