@@ -65,4 +65,4 @@ company's profit that is allocated to each outstanding share of its common stock
 26. year2ChangePercent
 27. year5ChangePercent
 28. ytdChangePercent - year to date change percent. A year-to-date figure (YTD)
-details the total percentage change from January 1 until a date later in the year. 
+details the total percentage change from January 1 until a date later in the year.
