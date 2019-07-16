@@ -1,8 +1,21 @@
 
+STORYLINE:
+We are financial advisors. we have a client who is interested in investing in banks. So we went out there and took a snapshot of
+the banks (we dropped a bank because there is no data for it). Now we are looking at price to earnings, earnings per share, and
+average volume.
+
 PRESENTATION OVERVIEW:
-we obtained a dataset snapshot of latest available data of their key statistics (market information, ie, average volume,
-market cap, earnings per share).we have another dataset that is a time series nature. It gives opening, closing, highs and
-lows. First experiment with snapshot data and first see if there are any stocks that had significantly different volume to
+We obtained a financial snapshot of 51 banks trading on the stock exchange. The dataset includes market information
+such as average volume trading, market capitalization, earnings per share, and other stock related statistics. We have
+another dataset that is time series data. These datasets 100 days of stock information for the 51 banks. This datasets
+includes the opening, closing, high and low price for each day.
+
+Our plan is to first understand our snaptshot dataset by doing some exploratory data analysis. Once we have a better
+understanding of the distribution of a few key variables, we will then ask a number of questions that can be answered
+with hypothesis testing. If and when we find something significant, we will then take a look at the detailed time-series
+datasets and try to understand what is going on with the individual banks.
+
+First experiment with snapshot data and first see if there are any stocks that had significantly different volume to
 market capitalization, or per ratio, or eps. To establish the fact that they are statistically different, we thought we could
 use sample mean t-test. If we find something different then we thought we are going to zoom into historical trade data for
 intraday.
@@ -30,7 +43,17 @@ Statistical Analysis: List of Hypothesis Tests on Learn.co:
 
 POSSIBLE QUESTIONS:
 
-1. Intraday variance as difference between high and low (stock)
+Looking at two measures of investment attractiveness. (pe and eps)
+
+- divide dataset by 50% into big cap and small cap. We can compare big cap vs small cap.
+
+1. Price to earnings  - split by market cap (independent sample t-test)
+2. Earnings per shares - split by market cap
+3. volume/ market capitalization @ 2 different times (a paired t-test)
+4. Checking if one bank is very very
+
+
+Intraday variance as difference between high and low (stock)
 2. Is there a bank out there whose daily volume is significantly different from everyone else (most
 popularly traded banks). Average 10 day volume/ market cap. For this we could do a T test and ANOVA.
 
@@ -45,12 +68,6 @@ EXAMPLE QUESTIONS:
 interest rates (the relationship between yield and maturity)?
 - TTM:  Earnings per share should be approximately the same across banks (this is the hypothesis). We can
 do this by testing the different
-EPS against the mean value of the banks. (New column would need to be created "TTM Earnings")
-
-we obtained a dataset snapshot of latest available data of their key statistics (market information, ie, average volume,
-market cap, earnings per share).we have another dataset that is a time series nature. It gives opening, closing, highs and
-lows. First experiment with snapshot data and first see if there are any stocks that had significantly different volume to
-market capitalization, or per ratio, or eps. To establish the fact that they are statistically different, we thought we could
-use sample mean t-test. If we find something different then we thought we are going to zoom into historical trade data for intraday.
+- EPS against the mean value of the banks. (New column would need to be created "TTM Earnings"
 
 Source: https://financetrain.com/what-is-hypothesis-testing/
