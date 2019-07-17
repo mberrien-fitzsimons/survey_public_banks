@@ -3,7 +3,10 @@
 #### *Collaborators: [Misha Berrien](https://github.com/mishaberrien) & [Dmitry Mikhaylov](https://github.com/allaccountstaken)*
 
 ### Project Overview: 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There has been renewed interest in banking stocks over the past few months. According to USNews.com, experts agree that "the sector, as a whole could have a strong year."
+
+In this project, we present a survey of 50 US publicly traded banks: 1-year return, trading volume, market capitalization, Welch's test for dependent samples, t-tests for PE ratio and EPS for Small vs Big banks.
+
 
 ### Github Layout: 
 
