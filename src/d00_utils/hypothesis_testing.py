@@ -47,7 +47,7 @@ def effective_dof(samp1, samp2):
     return welch_dof
 
 # compute p value
-def compute_pval(welch_t, welch_dof):
+def compute_pval_singlesided(welch_t, welch_dof):
     """
     computes p-value
 
