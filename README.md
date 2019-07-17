@@ -8,11 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Github Layout: 
 
 #### I. Datasets
-* Raw Data: Located in the data/01_raw
-* Clean Datasets: Located in the data/02_intermediate 
+* Raw Data: Located in data/01_raw
+* Clean Datasets: Located in data/02_intermediate 
 
 #### II. Scripts
-* Reading in Data: Scripts for pulling data from the API located in src/d01_data
+* Reading in Data: Scripts for pulling data from the IEX API located in src/d01_data
 * Data Cleaning: Scripts for cleaning data located in src/d02_intermediate
 
 #### III. Helper Functions
@@ -20,7 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### IV. Reported Results
 * Final results located in results folder
-
 
 #### V. Reference Material
 * Data Dictionary: Data dictionary loacated in references folder
