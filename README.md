@@ -29,4 +29,4 @@ In this project, we present a survey of 50 US publicly traded banks: 1-year retu
 
 ***
 
-This template is based on the [DSSG machine learning pipeline](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow). 
+This project folder outline is based on the [DSSG machine learning pipeline](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow). 
