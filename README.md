@@ -4,8 +4,7 @@ This project is a short overview of 50 publicly traded banks in the United State
 #### Project Status: [Completed]
 
 ## Project Intro/Objective
-The purposes of this analysis is to
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purposes of this analysis is to better understand what bank stock information can tell us about the public banking industry.
 
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
