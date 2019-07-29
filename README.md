@@ -35,8 +35,8 @@ In this project, we present a survey of 50 US publicly traded banks: 1-year retu
 
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Final Report](https://github.com/mishaberrien/survey_public_banks/blob/master/results/final_report.ipynb
-* [Executive Summary](https://github.com/mishaberrien/survey_public_banks/blob/master/executive_summary)
+* [Final Report - Technical Notebook](https://github.com/mishaberrien/survey_public_banks/blob/master/results/final_report.ipynb)
+* [Executive Summary - Slide Deck](https://github.com/mishaberrien/survey_public_banks/blob/master/executive_summary)
 
 ***
 
