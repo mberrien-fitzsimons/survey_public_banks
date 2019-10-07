@@ -1,7 +1,7 @@
 # Statistical Analysis of 50 Publicly Traded Banks in the US
 This project is a short overview of 50 publicly traded banks in the United States.
 
-#### Project Status: [Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purposes of this analysis is to better understand what bank stock information can tell us about the public banking industry.
